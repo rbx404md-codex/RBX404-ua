@@ -36,11 +36,11 @@ ua/
 
 GitHub Repository:
 
-https://github.com/Pro-Max-420/ua
+https://github.com/rbx404md-codex/RBX404-ua
 
 Raw User-Agent Database:
 
-https://raw.githubusercontent.com/Pro-Max-420/ua/main/bbnew.txt
+https://github.com/rbx404md-codex/RBX404-ua/blob/main/RBX404_bbnew.txt
 
 View Source File:
 
